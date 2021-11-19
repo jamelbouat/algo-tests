@@ -1,3 +1,3 @@
-- cd algo-tests/
+- cd algorithm-tests/
 - npm install
 - npm test
